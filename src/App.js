@@ -39,7 +39,7 @@ function App() {
       </div>
       <div className='d-flex justify-content-center mb-2'>
         <h5 className='header'>
-          Kidney Stone Detection using CNN
+          Kidney Abnormality Detection using CNN
         </h5>
       </div>
       <div className='project-desc'>
